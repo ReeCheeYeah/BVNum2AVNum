@@ -1,6 +1,7 @@
 # BVNum2AVNum
-bilibili BV号转AV号工具
-基于python
-欢迎提交Pull requests共同改进
-# 协议
-使用GPL 3.0协议
+bilibili bv number 2 av number script
+based on python
+# License
+LGPL 3.0
+# 在找中文版?
+[传送门 卡砰！](https://github.com/ReeCheeYeah/BVNum2AVNum)
